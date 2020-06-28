@@ -12,7 +12,7 @@ Historia:
 Propósito página web:
 * Como bicarbonato.combativo mostraré al mundo mi perspectiva de las cosas, mi visión, el momento.
 
-* Como analista programador, está página será un reto personal para más adelante convertirme en un diseñador profesional.
+* Como analista programador, está página será un reto personal que me servirá como presentación en mi futuro como diseñador profesional.
 
-GRACIAS POR LEER! C:
+GRACIAS POR LEER! c:
 
